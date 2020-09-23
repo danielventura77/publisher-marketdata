@@ -1,4 +1,4 @@
-# marketdata-websocket
+# publisher-marketdata
 Este projeto consiste no módulo publisher-marketdata do diagrama de arquitetura abaixo e tem como função publicar em um endpoint websocket as cotações de um ativo financeiro em tempo real.
 O módulo publisher-marketdata está conectado a um broker através de um DDE server que fornece as cotações em tempo real. 
 
